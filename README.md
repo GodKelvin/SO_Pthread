@@ -1,6 +1,9 @@
 # Resumo
 Atividade avaliativa realizada durante a disciplina de Sistemas Operacionais (2019/1) do curso Bacharelado em Sistemas de Informação (BSI) do IFES- Campus Serra. 
 
+# Docente da disciplina
+Flávio Giraldeli Bianca
+
 # Assunto
 Programação em Pthread (Programação Paralela). 
 
